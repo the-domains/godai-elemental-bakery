@@ -1,6 +1,6 @@
 name: Godai Elemental Bakery
 favicon: null
-layout_spectrum: 0.2432
+layout_spectrum: 1
 typography_spectrum: 0.46299695409834385
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#405b76'
   brandStrength: 1
   lightness: 0.37044887780211866
-  saturation: 0.164744469569996
+  saturation: 0.125
   rhythmicContrast: 0.2538994166534394
 purpose: []
