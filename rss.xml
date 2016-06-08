@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Godai Elemental Bakery]]></title>
         <description><![CDATA[Godai Elemental Bakery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/godai-elemental-bakery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 09:48:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 08 Jun 2016 09:50:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/godai-elemental-bakery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We specialise in slow fermentation sourdough breads, made using traditional methods and just a few simple ingredients; flour, water, sea salt and naturally occurring yeast. </p>]]></description>
+            <link>https://thegrid.ai/godai-elemental-bakery/we-specialise-in-slow-fermentation-sourdough-breads-made-us/index.html</link>
+            <guid isPermaLink="false">53a17445-14cd-4975-badf-19aa19564ca0</guid>
+            <pubDate>Wed, 08 Jun 2016 09:50:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Godai (五大) Elemental Bakery bakes sourdough bread Monday to Saturday. </p>]]></description>
-            <link>undefinedthe-godai-elemental-bakery-bakes-sourdough-bread-monday/index.html</link>
+            <link>https://thegrid.ai/godai-elemental-bakery/the-godai-elemental-bakery-bakes-sourdough-bread-monday/index.html</link>
             <guid isPermaLink="false">8051d8d5-2d16-4a13-a16a-b08051333e03</guid>
             <pubDate>Wed, 08 Jun 2016 09:47:49 GMT</pubDate>
         </item>
