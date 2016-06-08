@@ -9,8 +9,8 @@ description: >-
   specialise in slow fermentation sourdough breads, made using traditional
   methods and just a few simple ingredients; flour, water, sea salt and
   naturally occurring yeast. 
-datePublished: '2016-06-08T09:58:01.060Z'
-dateModified: '2016-06-08T09:57:59.401Z'
+datePublished: '2016-06-08T10:03:11.347Z'
+dateModified: '2016-06-08T10:00:25.253Z'
 title: ''
 author: []
 sourcePath: >-
