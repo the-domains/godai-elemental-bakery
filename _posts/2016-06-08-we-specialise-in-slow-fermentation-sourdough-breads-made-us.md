@@ -7,16 +7,16 @@ keywords: []
 description: >-
   We specialise in slow fermentation sourdough breads, made using traditional
   methods and just a few simple ingredients; flour, water, sea salt and
-  naturally occurring yeast.  
-datePublished: '2016-06-08T09:51:37.509Z'
-dateModified: '2016-06-08T09:51:37.206Z'
+  naturally occurring yeast. 
+datePublished: '2016-06-08T09:55:08.481Z'
+dateModified: '2016-06-08T09:53:57.647Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-08-we-specialise-in-slow-fermentation-sourdough-breads-made-us.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-08-we-specialise-in-slow-fermentation-sourdough-breads-made-us.md
 url: we-specialise-in-slow-fermentation-sourdough-breads-made-us/index.html
 _type: Article
 
