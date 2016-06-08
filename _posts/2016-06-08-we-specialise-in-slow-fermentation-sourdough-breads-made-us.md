@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  We specialise in slow fermentation sourdough breads, made using traditional
+  The Godai (五大) Elemental Bakery bakes sourdough bread Monday to Saturday.  We
+  specialise in slow fermentation sourdough breads, made using traditional
   methods and just a few simple ingredients; flour, water, sea salt and
   naturally occurring yeast. 
-datePublished: '2016-06-08T09:55:08.481Z'
-dateModified: '2016-06-08T09:53:57.647Z'
+datePublished: '2016-06-08T09:58:01.060Z'
+dateModified: '2016-06-08T09:57:59.401Z'
 title: ''
 author: []
 sourcePath: >-
@@ -21,6 +22,7 @@ url: we-specialise-in-slow-fermentation-sourdough-breads-made-us/index.html
 _type: Article
 
 ---
-We specialise in slow fermentation sourdough breads, made using traditional methods and just a few simple ingredients; flour, water, sea salt and naturally occurring yeast. 
+The Godai (五大) Elemental Bakery bakes sourdough bread Monday to Saturday.  
+We specialise in slow fermentation sourdough breads, made using traditional methods and just a few simple ingredients; flour, water, sea salt and naturally occurring yeast. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c226254-f438-48af-a059-71ec6be67f38.jpg)
 
 All our sourdoughs are hand made over two days, baked on stone, and use organic flour and other wholesome ingredients including nuts, seeds, grains and dried fruit.
